@@ -184,6 +184,5 @@ dependencies:
   - zlib=1.2.11=h62dcd97_4
   - zstd=1.4.9=h19a0ad4_0
   - pip:
-      - en-core-web-sm==3.0.0
       - jedi==0.17.2
       - parso==0.7.1

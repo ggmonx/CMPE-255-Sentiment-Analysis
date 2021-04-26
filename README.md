@@ -4,7 +4,7 @@
 
 # Project Information
 
--This project's goal is to perform sentiment analysis on a labeled dataset of Amazon reviews
+- This project's goal is to perform sentiment analysis on a labeled dataset of Amazon reviews
 
 - TODO: add scaling from helpfulness
 
