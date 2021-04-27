@@ -6,8 +6,6 @@
 
 - This project's goal is to perform sentiment analysis on a labeled dataset of Amazon reviews
 
-- TODO: add scaling from helpfulness, verify its efficacy
-
 # Download
 
 - Link to download [data](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Home_and_Kitchen_5.json.gz)
@@ -21,4 +19,4 @@
 - To recreate the environment in conda run `conda env create -f sentan.yml`
 - To activate the environment run `conda activate sentan`
 - Run `python -m spacy download en_core_web_sm`
-- At this point you can run `jupyter notebook` and then pick `CMPE255-TeamProject.ipynb` to see preprocessing steps or `Sentiment_analysis.ipynb` to see how model was trained
+- At this point you can run `jupyter notebook` and then run in order `CMPE255-TeamProject.ipynb`-> `Sentiment_analysis.ipynb` -> `Adding_review_text_column.ipynb` to generate the final results
