@@ -19,4 +19,5 @@
 - To recreate the environment in conda run `conda env create -f sentan.yml`
 - To activate the environment run `conda activate sentan`
 - Run `python -m spacy download en_core_web_sm`
-- At this point you can run `jupyter notebook` and then run in order `CMPE255-TeamProject.ipynb`-> `Sentiment_analysis.ipynb` -> `Adding_review_text_column.ipynb` to generate the final results
+- At this point you can run `jupyter notebook` and then run in order `CMPE255-TeamProject.ipynb`-> `Sentiment_analysis.ipynb` -> `Adding_review_text_column.ipynb` to generate the final results.
+- Just running these files will use the sample data from data.json to use the full data download it and put in root folder and change the path at the top of the `CMPE255-TeamProject.ipynb` to be `Home_and_Kitchen_5.json`
