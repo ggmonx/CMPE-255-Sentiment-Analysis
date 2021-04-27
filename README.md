@@ -6,7 +6,7 @@
 
 - This project's goal is to perform sentiment analysis on a labeled dataset of Amazon reviews
 
-- TODO: add scaling from helpfulness
+- TODO: add scaling from helpfulness, verify its efficacy
 
 # Download
 
