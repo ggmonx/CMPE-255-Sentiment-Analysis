@@ -14,3 +14,5 @@ Home_and_Kitchen_5.json
 3_Faster_Sentiment_Analysis.ipynb
 .vector_cache
 sentiment.pt
+data
+Tokenized.csv
