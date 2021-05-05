@@ -11,6 +11,7 @@ dependencies:
   - async_generator=1.10=py37h28b3542_0
   - attrs=20.3.0=pyhd3eb1b0_0
   - backcall=0.2.0=pyhd3eb1b0_0
+  - bayesian-optimization=1.1.0=py_0
   - blas=1.0=mkl
   - bleach=3.3.0=pyhd3eb1b0_0
   - boto=2.49.0=py_0
