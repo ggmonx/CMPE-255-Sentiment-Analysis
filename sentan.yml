@@ -19,10 +19,10 @@ dependencies:
   - botocore=1.20.55=pyhd8ed1ab_0
   - brotlipy=0.7.0=py37h2bbff1b_1003
   - bz2file=0.98=py_0
-  - ca-certificates=2020.12.5=h5b45459_0
+  - ca-certificates=2021.4.13=haa95532_1
   - cachetools=4.2.1=pyhd8ed1ab_0
   - catalogue=2.0.3=py37h03978a9_0
-  - certifi=2020.12.5=py37h03978a9_1
+  - certifi=2020.12.5=py37haa95532_0
   - cffi=1.14.5=py37hcd4344a_0
   - chardet=4.0.0=py37haa95532_1003
   - click=7.1.2=pyh9f0ad1d_0
@@ -32,6 +32,7 @@ dependencies:
   - cudnn=8.1.0.77=h37a4af2_0
   - cupy=8.6.0=py37hfe954b4_0
   - cutensor=1.2.2.5=hcf0059e_3
+  - cycler=0.10.0=py37_0
   - cymem=2.0.5=py37hf2a7229_1
   - cython-blis=0.7.4=py37hda49f71_0
   - dataclasses=0.8=pyhc8e2a94_1
@@ -68,6 +69,7 @@ dependencies:
   - jupyter_core=4.7.1=py37haa95532_0
   - jupyterlab_pygments=0.1.2=py_0
   - jupyterlab_widgets=1.0.0=pyhd3eb1b0_1
+  - kiwisolver=1.3.1=py37hd77b12b_0
   - libblas=3.9.0=1_h8933c1f_netlib
   - libcblas=3.9.0=5_hd5c7e75_netlib
   - libcrc32c=1.1.1=h0e60522_2
@@ -84,6 +86,8 @@ dependencies:
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markupsafe=1.1.1=py37hfa6e2cd_1
+  - matplotlib=3.3.4=py37haa95532_0
+  - matplotlib-base=3.3.4=py37h49ac443_0
   - mistune=0.8.4=py37hfa6e2cd_1001
   - mkl=2020.2=256
   - mkl-service=2.3.0=py37h196d8e1_0
@@ -102,7 +106,7 @@ dependencies:
   - numpy=1.19.2=py37hadc3359_0
   - numpy-base=1.19.2=py37ha3acd2a_0
   - olefile=0.46=py37_0
-  - openssl=1.1.1k=h8ffe710_0
+  - openssl=1.1.1k=h2bbff1b_0
   - packaging=20.9=pyhd3eb1b0_0
   - pandas=1.1.3=py37ha925a31_0
   - pandoc=2.12=haa95532_0
